@@ -125,6 +125,6 @@ export const personalInfo = {
   title: 'Artificial Intelligence & Machine Learning',
   bio: 'A highly motivated and skilled Computer Science Engineer specializing in "Artificial Intelligence and Machine Learning" and Web Development. Demonstrates a proven ability to design and implement innovative solutions, including web applications, AI-powered models, and satellite data analytics. Possesses strong problem-solving skills, combined with expertise in Python, advanced machine learning frameworks, and real-time data processing. Dedicated to creating impactful, user-centric systems that seamlessly blend cultural awareness with cutting-edge AI technologies',
   resumeUrl: '/Bharath.pdf',
-  avatarUrl: 'public/image45.jpg',
-  aboutImageUrl: 'public/image1.jpg'
+  avatarUrl: '/image45.jpg',
+  aboutImageUrl: '/image1.jpg'
 };
