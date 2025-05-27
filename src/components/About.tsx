@@ -7,7 +7,7 @@ const About: React.FC = () => {
     <section id="about" className="py-20 bg-slate-800">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-16 text-white">
-          About <span className="text-blue-400">Me</span>
+          ABOUT <span className="text-blue-400">ME</span>
         </h2>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-10">
