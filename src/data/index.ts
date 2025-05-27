@@ -3,7 +3,7 @@ import { SkillType, ServiceType, AchievementType, ProjectType, SocialLinkType } 
 export const socialLinks: SocialLinkType[] = [
   {
     platform: 'LinkedIn',
-    url: 'https://linkedin.com/in/bharathk15',
+    url: 'https://www.linkedin.com/in/bharathk15/',
     icon: 'linkedin'
   },
   {
