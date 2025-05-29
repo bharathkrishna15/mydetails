@@ -103,21 +103,21 @@ export const projects: ProjectType[] = [
   {
     title: 'Weather App',
     description: 'A web-based weather application that provides real-time weather updates using API integration.',
-    imageUrl: 'https://cdn-icons-png.flaticon.com/512/869/869869.png',
+    imageUrl: '/weatherapp.jpeg',
     projectUrl: 'https://bharathkrishna15.github.io/PRODIGY_WD_05'
   },
   {
     title: 'Tic-Tac-Toe Web App',
     description: 'A simple yet interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.',
-    imageUrl: 'https://cdn-icons-png.flaticon.com/512/2076/2076561.png',
+    imageUrl: '/xo.jpeg',
     projectUrl: '#'
   },
   {
-    title: 'AI Chatbot',
-    description: 'An intelligent chatbot built using Python and Machine Learning to assist with queries.',
-    imageUrl: 'https://cdn-icons-png.flaticon.com/512/4712/4712033.png',
-    projectUrl: '#'
-  }
+  title: 'AI Chatbot',
+  description: 'An intelligent chatbot built using Python and Machine Learning to assist with queries.',
+  imageUrl: './aibot.png',
+  projectUrl: '#'
+}
 ];
 
 export const personalInfo = {
